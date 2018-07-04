@@ -1,3 +1,8 @@
+keys.py
+config.py
+data/*
+!data/states_by_fips.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
